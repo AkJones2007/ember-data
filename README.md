@@ -12,9 +12,9 @@ By the end of this lesson, students should be able to:
 ## Instructions
 
 1. Diagram Ember Model and Adapter layers.
-1. Implement a fake back-end using `ember-cli-mirage`.
-1. Implement an application adapater.
 1. Implement models using `ember-data`.
+1. Implement an application adapter.
+1. Implement a fake back-end using `ember-cli-mirage`.
 1. Replace hard-coded template values with data from the back-end.
 
 ## Additional Resources
