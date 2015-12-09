@@ -11,6 +11,8 @@ By the end of this lesson, students should be able to:
 
 ## Instructions
 
+We'll continue working on [Listr](https://github.com/ga-wdi-boston/ember-example-listr).
+
 1. Diagram Ember Model and Adapter layers.
 1. Implement models using `ember-data`.
 1. Implement an application adapter.
